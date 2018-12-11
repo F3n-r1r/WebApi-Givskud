@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoApi", "UmbracoApi\UmbracoApi.csproj", "{53544CE2-67A4-4055-A32C-821195E89BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UApiTest", "UApiTest\UApiTest.csproj", "{50A9CC6B-2FDA-4B1F-BC34-7B7C295AB051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53544CE2-67A4-4055-A32C-821195E89BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53544CE2-67A4-4055-A32C-821195E89BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53544CE2-67A4-4055-A32C-821195E89BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53544CE2-67A4-4055-A32C-821195E89BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A9CC6B-2FDA-4B1F-BC34-7B7C295AB051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A9CC6B-2FDA-4B1F-BC34-7B7C295AB051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A9CC6B-2FDA-4B1F-BC34-7B7C295AB051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A9CC6B-2FDA-4B1F-BC34-7B7C295AB051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D19C36-D68C-483E-9FF6-3E4F9C7B15ED}
+	EndGlobalSection
+EndGlobal
